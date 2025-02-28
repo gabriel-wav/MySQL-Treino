@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<APP>
+	<CONFIGURACAO>
+    <Configuracoes>
+      <dirLogico Valor="C:\Users\DEV-N-2025\Desktop\"/>
+      <dirConceitual Valor="C:\Users\DEV-N-2025\Desktop\"/>
+      <showLHint Valor="False"/>
+      <Tempo Valor="5"/>
+      <ExibirLog Valor="False"/>
+    </Configuracoes>
+    <Arquivos>
+      <Arq01 Valor="C:\USERS\DEV-N-2025\DESKTOP\CONCEITUAL_JOINS 11 02.XML"/>
+      <Arq02 Valor="C:\USERS\DEV-N-2025\DESKTOP\LOGICO_JOINS 11 02.XML"/>
+      <Arq03 Valor=""/>
+      <Arq04 Valor=""/>
+      <Arq05 Valor=""/>
+    </Arquivos>
+  </CONFIGURACAO>
+</APP>
